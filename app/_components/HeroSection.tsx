@@ -11,7 +11,7 @@ function HeroSection() {
         <div className="w-full h-full flex flex-col justify-center items-center text-black">
           <Reveal>
             <h1 className="text-[5vw] max-sm:text-[7.5vw] mb-5 m-0 z-30 max-sm:mb-2 name">
-              Hi, I am <span className="font-bold">Ehtisham.</span>
+              Hi, I am <span className="font-bold">Hassaan Baig</span>
             </h1>
           </Reveal>
           <Reveal delayTime={0.35}>
