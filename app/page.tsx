@@ -15,7 +15,6 @@ export default function Home() {
         <HeroSection />
       </PageWrapper>
       <MySkills />
-      <AboutMe />
       <Projects />
       <MyTestimonials />
       <ContactMe />
